@@ -554,6 +554,6 @@ GitHub: [@yourusername](https://github.com/yourusername)
 
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by [Yogma]**
 
 **Happy Coding! 🎉**
